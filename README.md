@@ -30,8 +30,9 @@ Amiya's Hooks! 使部分应用成为plus version
 
 ## 📨 吹水
 
-`<a href="https://t.me/AmiyaHooksPublicCl"><img alt="Telegram Channel" src="https://img.shields.io/badge/Channel-@AmiyaHooksPublicCl-blue.svg?logo=telegram">``</a><br>`
-`<a href="https://t.me/AmiyaHooksPublicChat"><img alt="Telegram Chat" src="https://img.shields.io/badge/Chat-@AmiyaHooksPublicChat-blue.svg?logo=telegram">``</a>`
+<a href="https://t.me/AmiyaHooksPublicCl"><img alt="Telegram Channel" src="https://img.shields.io/badge/Channel-@AmiyaHooksPublicCl-blue.svg?logo=telegram"></a>
+<br>
+<a href="https://t.me/AmiyaHooksPublicChat"><img alt="Telegram Chat" src="https://img.shields.io/badge/Chat-@AmiyaHooksPublicChat-blue.svg?logo=telegram"></a>
 
 ## ☕ 请我喝杯咖啡
 
