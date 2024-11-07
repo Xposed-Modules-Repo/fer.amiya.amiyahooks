@@ -38,8 +38,8 @@ Amiya's Hooks! 使部分应用成为plus version
 
 > ### **您的支持将使我感到夜不是白熬的！**
 
-![alipay](image/README/Donate/alipay.jpg)
+![alipay](https://raw.githubusercontent.com/Xposed-Modules-Repo/fer.amiya.amiyahooks/refs/heads/main/image/README/Donate/alipay.jpg)
 
-![mm](image/README/Donate/mm.png)
+![mm](https://raw.githubusercontent.com/Xposed-Modules-Repo/fer.amiya.amiyahooks/refs/heads/main/image/README/Donate/mm.png)
 
-![qq](image/README/Donate/qq.png)
+![qq](https://raw.githubusercontent.com/Xposed-Modules-Repo/fer.amiya.amiyahooks/refs/heads/main/image/README/Donate/qq.png)
