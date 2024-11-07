@@ -37,8 +37,8 @@ Amiya's Hooks! 使部分应用成为plus version
 
 > ### **您的支持将使我感到夜不是白熬的！**
 
-![alipay](image/README/Donate//alipay.jpg)
+![alipay](image/README/Donate/alipay.jpg)
 
-![mm](image/README/Donate//mm.png)
+![mm](image/README/Donate/mm.png)
 
-![qq](image/README/Donate//qq.png)
+![qq](image/README/Donate/qq.png)
